@@ -1,0 +1,15 @@
+{
+  "name": "btq-token",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.24.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "ethers": "^5.8.0",
+    "ethereum-waffle": "^3.4.4",
+    "chai": "^4.3.6"
+  }
+}
